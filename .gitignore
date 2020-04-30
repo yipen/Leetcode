@@ -1,0 +1,4 @@
+# ignore out
+out/
+.idea/
+LeetCode.iml
